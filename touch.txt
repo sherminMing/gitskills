@@ -1,0 +1,5 @@
+This repository is cloned from remote repository:git@github.com:sherminMing/gitskills.git
+
+And it it also a test file
+
+Thank you
